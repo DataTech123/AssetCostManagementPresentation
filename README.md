@@ -20,14 +20,19 @@ Cost Allocation Process:
 •	Align costs with the appropriate asset account upon categorizing attribution.
 
 Asset Cost Journal Entry:
+
 •	Review and verify costing project related AP invoice and additional expense-type document within this project.
 
 Asset Cost Journal Process Window:
+
 •	Enter a “Debit” on the “Construction in Progress (CIP) account” line and a “Credit” on the approved voucher account line. 
+
 •	Ensure a journal entry is accurate before referencing the existing journal information entries in the system.
 
 Asset Management Workflow:
+
 •	 Use the “Costing Project Analytics” and “Asset Maintenance Management” modules in PeopleSoft for work process verification. 
+
 •	Create an asset database diagram to view activities in relation to all target data sets, from asset creation to completion, associated with activities.
 
 Thank you for your comments and questions for further development.
