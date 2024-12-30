@@ -8,11 +8,15 @@ Using PowerPoint design 10-slide visual and diagram for asset processor’s guid
 Asset type and cost category:
 
 •	Define asset type to create asset number or account.
+
 •	Identify cost category for cost calculation. (partial or full). 
 
 Cost Allocation Process:
+
 •	Allocate costs from projects in service or after the completed projects.
+
 •	Review and adjust a total amount of cost allocations based on allocation rule.
+
 •	Align costs with the appropriate asset account upon categorizing attribution.
 
 Asset Cost Journal Entry:
