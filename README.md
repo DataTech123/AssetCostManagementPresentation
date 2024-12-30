@@ -4,19 +4,23 @@ This capitalized asset cost defines a long-term period of work in progress (WIP)
 This asset cost accounting system information document outlines the relevant capital cost allocation activities for tracking all asset costs through Oracle’s Asset Service and Management module (WAMS) and the PeopleSoft accounting transaction system.
 
 Using PowerPoint design 10-slide visual and diagram for asset processor’s guide:
-1.Asset type and cost category:
+Asset type and cost category:
 •	Define asset type to create asset number or account.
 •	Identify cost category for cost calculation. (partial or full). 
-2.	Cost Allocation Process:
+
+Cost Allocation Process:
 •	Allocate costs from projects in service or after the completed projects.
 •	Review and adjust a total amount of cost allocations based on allocation rule.
 •	Align costs with the appropriate asset account upon categorizing attribution.
-3.	Asset Cost Journal Entry:
+
+Asset Cost Journal Entry:
 •	Review and verify costing project related AP invoice and additional expense-type document within this project.
-4.	Asset Cost Journal Window:
+
+Asset Cost Journal Process Window:
 •	Enter a “Debit” on the “Construction in Progress (CIP) account” line and a “Credit” on the approved voucher account line. 
 •	Ensure a journal entry is accurate before referencing the existing journal information entries in the system.
-5.	Asset Management Workflow:
+
+Asset Management Workflow:
 •	 Use the “Costing Project Analytics” and “Asset Maintenance Management” modules in PeopleSoft for work process verification. 
 •	Create an asset database diagram to view activities in relation to all target data sets, from asset creation to completion, associated with activities.
 
