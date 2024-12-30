@@ -1,10 +1,26 @@
+                                                 Capital Asset Cost Management Project Cover Page
+This capitalized asset cost defines a long-term period of work in progress (WIP)or construction-in-progress (CIP)projects. It refers to the acquisition of an asset extending beyond one year, including not only the purchase or repair material cost but also additional expenses such as administrative labor, depreciation, and amortization. It has a useful life, presenting the full cost of a capital asset recorded in the 2022 and 2023 Seattle City Light Department’s financial statements within the operating expenses in an attached Word document. According to its construction accounting, it implements fixed assets: long-term assets that are tangible, such as sidewalk maintenance, machinery, and vehicles.
 
-                                     Capital Asset Cost Management Project Cover Page
+This asset cost accounting system information document outlines the relevant capital cost allocation activities for tracking all asset costs through Oracle’s Asset Service and Management module (WAMS) and the PeopleSoft accounting transaction system.
 
-    This capitalized asset cost defines a long-term period of work in progress (WIP/CIP) when acquiring an asset beyond one year, including not only the purchase repair material price but also any additional costs like administrative labor, depreciation, and amortization. It has a useful life presenting the full cost of a capital asset that is recorded on the 2022 and 2023’s Seattle City Light Department’s financial statement within the operating expenses.  According to its construction accounting implements the fixed assets: Long-term assets that are tangible, such as sidewalk maintenance, machine, and vehicle.
-    
-    This project monitors the relevant capital cost allocation activities for tracking- cost purposes, by using Oracle’s Asset Service and Management module (WAMS) and PeopleSoft accounting transaction system for capital asset cost management. 
-    
-     By utilizing PowerPoint designed 10 slides, this project creates the related visuals(diagram image) and asset information to define asset type, create asset, process asset, allocate costing from project in service or after completing project, review and adjustment the completed cost allocation to the appropriate asset account before posting its journal entry to GL, according to the departmental cost category attribution and distribution rule and the funding percentage.
+Using PowerPoint design 10-slide visual and diagram for asset processor’s guide:
+1.Asset type and cost category:
+•	Define asset type to create asset number or account.
+•	Identify cost category for cost calculation. (partial or full). 
+2.	Cost Allocation Process:
+•	Allocate costs from projects in service or after the completed projects.
+•	Review and adjust a total amount of cost allocations based on allocation rule.
+•	Align costs with the appropriate asset account upon categorizing attribution.
+3.	Asset Cost Journal Entry:
+•	Review and verify costing project related AP invoice and additional expense-type document within this project.
+4.	Asset Cost Journal Window:
+•	Enter a “Debit” on the “Construction in Progress (CIP) account” line and a “Credit” on the approved voucher account line. 
+•	Ensure a journal entry is accurate before referencing the existing journal information entries in the system.
+5.	Asset Management Workflow:
+•	 Use the “Costing Project Analytics” and “Asset Maintenance Management” modules in PeopleSoft for work process verification. 
+•	Create an asset database diagram to view activities in relation to all target data sets, from asset creation to completion, associated with activities.
+
+Thank you for your comments and questions for further development.
+
+              
      
-    I thank you so much for your comments and questions for further development.
