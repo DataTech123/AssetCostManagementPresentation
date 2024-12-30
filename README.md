@@ -6,6 +6,7 @@ This asset cost accounting system information document outlines the relevant cap
 Using PowerPoint design 10-slide visual and diagram for asset processor’s guide:
 
 Asset type and cost category:
+
 •	Define asset type to create asset number or account.
 •	Identify cost category for cost calculation. (partial or full). 
 
